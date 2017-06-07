@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Pycharm config files
+.idea/
+
+# Secrets file
+secrets.json
+
+# redis data
+dump.rdb
+
+bufu/*/*/migrations/*
+!bufu/*/migrations/__init__.py
