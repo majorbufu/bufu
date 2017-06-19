@@ -20,3 +20,4 @@ django-material
 xhtml2pdf==0.2b1
 django-import-export==0.5.1
 django-bulk-update==1.1.10
+django-debug-toolbar
